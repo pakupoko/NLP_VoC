@@ -6,3 +6,5 @@ Ver2 - 190806
 feature 명을 통합하고 feature가 언급된 review들만 색인하여 데이터프레임으로 만드는 기능 추가.
 Ver3 - 190806
 함수에 주석 추가
+Ver4 - 190806
+reset_index 기능 및 csv 생성 기능 추가
