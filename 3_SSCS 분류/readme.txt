@@ -7,3 +7,8 @@ product_list가 없어서 해당 코드를 # 처리하여 남겨둠 추후 처�
 CS, SS 라벨링.ipynb
 Ver1 - 190807
 CS와 SS 라벨링하는 함수입니다. 라벨링한 데이터는 드라이브에^^
+
+
+labeling_feature.ipynb
+Ver1 - 190807
+feature_labeling하는 함수입니다. 라벨링한 데이터는 CS,SS 데이터를 포함하고 있습니다.
