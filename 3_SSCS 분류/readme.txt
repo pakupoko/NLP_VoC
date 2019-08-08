@@ -8,6 +8,8 @@ Ver2 - 190807
 CS, SS 라벨링.ipynb
 Ver1 - 190807
 CS와 SS 라벨링하는 함수입니다. 라벨링한 데이터는 드라이브에^^
+Ver2 - 190808
+kw_list를 수작업으로 재정의했습니다
 
 
 labeling_feature.ipynb
