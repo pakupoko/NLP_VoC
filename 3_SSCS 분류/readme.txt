@@ -10,7 +10,9 @@ Ver1 - 190807
 CS와 SS 라벨링하는 함수입니다. 라벨링한 데이터는 드라이브에^^
 Ver2 - 190808
 kw_list를 수작업으로 재정의했습니다
-
+Ver3 - 190809
+kw_list 가져오는 코드 함수화
+cs, ss 라벨링 apply로 진행하는 코드 작성, 함수화
 
 labeling_feature.ipynb
 Ver1 - 190807
