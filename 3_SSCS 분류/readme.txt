@@ -22,3 +22,7 @@ Ver1 - 190807
 feature_labeling하는 함수입니다. 라벨링한 데이터는 CS,SS 데이터를 포함하고 있습니다.
 Ver2 - 190808
 feature_labeling for문 말고 apply로 라벨링하는 코드를 작성했습니다.
+
+pNumber_preproc.ipynb
+ver1 - 190812
+최초 업로드. 제품 사전 엑셀 파일을 csv로 전환하는 함수입니다.
