@@ -35,3 +35,10 @@ Ver1 - 190820
 최초업로드
 1. feature별로 별도의 매트릭스를 구하여 저장하는 코드 추가
 2. feature별 rank를 계산하여 하나의 데이터프레임 형식으로 merge하는 코드 추가
+
+
+star_counts_labeling.ipynb
+Ver1 - 190820
+최초업로드
+1. feature별로 law데이터에 포함된 평균 star값과 리뷰 개수를 계산
+2. 1번의 값들을 하나의 데이터프레임 형식으로 merge하는 코드 
