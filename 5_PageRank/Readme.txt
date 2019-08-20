@@ -27,3 +27,11 @@ Ver2 - 190814
 3. Make_Rank함수에서 퍼포먼스 향상을 위해 넘파이배열의 사칙연산을 사용
 4. 'sum' 값이 0인 열을 제거하기 위해 T(트랜스포즈)를 사용
 5. sort함수를 사용하여 출력값을 
+
+
+
+feature별 PageRank_labeling.ipynb
+Ver1 - 190820
+최초업로드
+1. feature별로 별도의 매트릭스를 구하여 저장하는 코드 추가
+2. feature별 rank를 계산하여 하나의 데이터프레임 형식으로 merge하는 코드 추가
