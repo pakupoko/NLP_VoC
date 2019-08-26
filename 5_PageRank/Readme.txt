@@ -35,6 +35,8 @@ Ver1 - 190820
 최초업로드
 1. feature별로 별도의 매트릭스를 구하여 저장하는 코드 추가
 2. feature별 rank를 계산하여 하나의 데이터프레임 형식으로 merge하는 코드 추가
+Ver2 - 190826
+퍼포먼스 
 
 
 star_counts_labeling.ipynb
