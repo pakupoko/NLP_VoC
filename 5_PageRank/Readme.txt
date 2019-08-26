@@ -46,3 +46,4 @@ Ver1 - 190820
 매트릭스 만드는 클래스_임시.ipynb
 ver1 - 190826
 최초 업로드
+-feature별 PageRank_labeling.ipynb에 통합. 삭제, ipynb 파일 삭제
